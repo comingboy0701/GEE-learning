@@ -24,7 +24,9 @@
 * [第2节 数据类型](di-3-zhang/3.2-jie/README.md)
   * [1.1 Javascript数据类型](di-3-zhang/3.2-jie/3.1.1-jie.md)
   * [1.2 GIS数据类型](di-3-zhang/3.2-jie/3.1.2-jie.md)
-  * [1.3 其它数据](di-3-zhang/3.2-jie/3.1.3-jie.md)
+  * [1.3 其它数据](di-3-zhang/3.2-jie/3.1.3-jie/README.md)
+    * [1.1 ee.Date](di-3-zhang/3.2-jie/3.1.3-jie/3.2.3.1-jie.md)
+    * [1.2 ee.ConfusionMatrix](di-3-zhang/3.2-jie/3.1.3-jie/3.2.3.2-jie.md)
 * [第3节 程序结构](di-3-zhang/3.3-jie/README.md)
   * [3.1节 for,while,map,evaluate和iterate的异同](di-3-zhang/3.3-jie/3.3.1-jie.md)
   * [3.2节 if,switch和ee.Algorithms.If的异同](di-3-zhang/3.3-jie/3.3.2-jie.md)
@@ -32,10 +34,10 @@
 ## 第四章 GEE函数接口 <a id="di-4-zhang"></a>
 
 * [第1节 ee.Join](di-4-zhang/4.1-jie.md)
-* [第2节 ee.Date](di-4-zhang/4.2-jie.md)
 
 ## 第五章 案例 <a id="di-5-zhang"></a>
 
 * [第1节 matlab读取GEE下载的tif影像并自定义颜色画图显示](di-5-zhang/5.1-jie.md)
 * [第2节 python 读取GEE下载的tif影像并自定义颜色画图显示](di-5-zhang/5.2-jie.md)
+* [第3节 植被指数的三种计算方式expression,normalizedDifference,手动计算](di-5-zhang/5.3-jie.md)
 
