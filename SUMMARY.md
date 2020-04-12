@@ -15,16 +15,16 @@
 
 ## 第二章 JavaScript <a id="di-2-zhang"></a>
 
-* [第1节 数据类型](di-2-zhang/2.1-jie/README.md)
-  * [1.1 Javascript数据类型](di-2-zhang/2.1-jie/2.1.1-jie.md)
-  * [1.2 GIS数据类型](di-2-zhang/2.1-jie/2.1.2-jie.md)
-  * [1.3 其它数据](di-2-zhang/2.1-jie/2.1.3-jie.md)
+* [第1节 数据类型](di-2-zhang/2.1-jie.md)
 * [第2节 程序结构](di-2-zhang/2.2-jie.md)
 
 ## 第三章 GEE数据类型 <a id="di-3-zhang"></a>
 
 * [第1节 总体概括](di-3-zhang/3.1-jie.md)
-* [第2节 数据类型](di-3-zhang/3.2-jie.md)
+* [第2节 数据类型](di-3-zhang/3.2-jie/README.md)
+  * [1.1 Javascript数据类型](di-3-zhang/3.2-jie/3.1.1-jie.md)
+  * [1.2 GIS数据类型](di-3-zhang/3.2-jie/3.1.2-jie.md)
+  * [1.3 其它数据](di-3-zhang/3.2-jie/3.1.3-jie.md)
 * [第3节 程序结构](di-3-zhang/3.3-jie/README.md)
   * [3.1节 for,while,map,evaluate和iterate的异同](di-3-zhang/3.3-jie/3.3.1-jie.md)
   * [3.2节 if,switch和ee.Algorithms.If的异同](di-3-zhang/3.3-jie/3.3.2-jie.md)
