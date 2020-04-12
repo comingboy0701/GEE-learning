@@ -4,7 +4,7 @@ description: GEE初学笔记
 
 # 介绍
 
-## 主要从一下几个方面总结自己入门笔记。
+## 主要从以下几个方面总结自己入门笔记。
 
 * 围绕Google Earth Engine的安装
 * GEE的入门学习
