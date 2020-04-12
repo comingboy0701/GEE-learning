@@ -8,6 +8,8 @@
 * [第2节 安装步骤](di-1-zhang/1.2-jie/README.md)
   * [1 在 Colaboratory 云端配置 GEE 的开发环境](di-1-zhang/1.2-jie/1.2.1-jie.md)
   * [2 在 window7&python2.7 配置 GEE 的开发环境](di-1-zhang/1.2-jie/1.2.2-jie.md)
+  * [3 补充-客户端连接远程服务器的Jupyter](di-1-zhang/1.2-jie/1.3-jie.md)
+  * [4 补充-安装 anaconda3 以及安装虚拟环境](di-1-zhang/1.2-jie/1.4-jie.md)
 * [第3节 学习资源](di-1-zhang/1.3-jie.md)
 * [第4节-学习方法](di-1-zhang/1.4-jie.md)
 
