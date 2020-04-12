@@ -1,6 +1,6 @@
 # Table of contents
 
-* [前沿](README.md)
+* [介绍](README.md)
 
 ## 第一章 安装和配置 <a id="di-1-zhang"></a>
 
@@ -32,5 +32,5 @@
 ## 第五章 案例 <a id="di-5-zhang"></a>
 
 * [第1节 matlab读取GEE下载的tif影像并自定义颜色画图显示](di-5-zhang/5.1-jie.md)
-* [第2节 python 读取gee下载的tif影像并自定义颜色画图显示](di-5-zhang/5.2-jie.md)
+* [第2节 python 读取GEE下载的tif影像并自定义颜色画图显示](di-5-zhang/5.2-jie.md)
 
