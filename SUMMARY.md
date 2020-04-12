@@ -20,8 +20,8 @@
 
 ## 第三章 GEE数据类型 <a id="di-3-zhang"></a>
 
-* [第1节 总体概括](di-3-zhang/3.1-jie-1.md)
-* [第2节 数据类型](di-3-zhang/3.2-jie-1.md)
+* [第1节 总体概括](di-3-zhang/3.1-jie.md)
+* [第2节 数据类型](di-3-zhang/3.2-jie.md)
 * [第3节 程序结构](di-3-zhang/3.3-jie.md)
 
 ## 第四章 GEE函数接口 <a id="di-4-zhang"></a>
