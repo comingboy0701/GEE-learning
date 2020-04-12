@@ -16,8 +16,8 @@
 ## 第二章 JavaScript <a id="di-2-zhang"></a>
 
 * [第1节 数据类型](di-2-zhang/2.1-jie/README.md)
-  * [1.1 Javascript数据类型](di-2-zhang/2.1-jie/2.1.2-jie.md)
-  * [1.2 GIS数据类型](di-2-zhang/2.1-jie/2.1.2-jie-1.md)
+  * [1.1 Javascript数据类型](di-2-zhang/2.1-jie/2.1.1-jie.md)
+  * [1.2 GIS数据类型](di-2-zhang/2.1-jie/2.1.2-jie.md)
   * [1.3 其它数据](di-2-zhang/2.1-jie/2.1.3-jie.md)
 * [第2节 程序结构](di-2-zhang/2.2-jie.md)
 
