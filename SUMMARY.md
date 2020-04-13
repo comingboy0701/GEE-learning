@@ -44,5 +44,3 @@
 
 ## 第二章 Javascript
 
-* [Untitled](di-er-zhang-javascript/untitled.md)
-
