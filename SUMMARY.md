@@ -38,3 +38,5 @@
 * [第4节 植被指数的三种计算方式expression,normalizedDifference,手动计算](di-5-zhang/5.4-jie.md)
 * [第5节 统计不同土地利用类型的面积](di-5-zhang/5.5-jie.md)
 
+## 第六章 arcgis
+
