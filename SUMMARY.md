@@ -13,6 +13,8 @@
 * [第3节 学习资源](di-1-zhang/1.3-jie.md)
 * [第4节-学习方法](di-1-zhang/1.4-jie.md)
 
+## 第二章 Javascript
+
 ## 第三章 GEE数据结构 <a id="di-3-zhang"></a>
 
 * [第1节 总体概括](di-3-zhang/3.1-jie.md)
@@ -41,6 +43,4 @@
 ## 第六章 arcgis
 
 ## 第七章 python
-
-## 第二章 Javascript
 
