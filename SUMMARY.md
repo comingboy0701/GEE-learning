@@ -42,5 +42,3 @@
 
 ## 第七章 python
 
-* [Untitled](di-qi-zhang-python/untitled.md)
-
