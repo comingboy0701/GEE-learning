@@ -13,18 +13,13 @@
 * [第3节 学习资源](di-1-zhang/1.3-jie.md)
 * [第4节-学习方法](di-1-zhang/1.4-jie.md)
 
-## 第二章 JavaScript <a id="di-2-zhang"></a>
-
-* [第1节 数据类型](di-2-zhang/2.1-jie.md)
-* [第2节 程序结构](di-2-zhang/2.2-jie.md)
-
 ## 第三章 GEE数据结构 <a id="di-3-zhang"></a>
 
 * [第1节 总体概括](di-3-zhang/3.1-jie.md)
 * [第2节 数据类型](di-3-zhang/3.2-jie/README.md)
-  * [1.1 Javascript数据类型](di-3-zhang/3.2-jie/3.1.1-jie.md)
-  * [1.2 GIS数据类型](di-3-zhang/3.2-jie/3.1.2-jie.md)
-  * [1.3 其它数据](di-3-zhang/3.2-jie/3.1.3-jie/README.md)
+  * [1.1 数据类型-1](di-3-zhang/3.2-jie/3.1.1-jie.md)
+  * [1.2 数据类型-2](di-3-zhang/3.2-jie/3.1.2-jie.md)
+  * [1.3 数据类型-3](di-3-zhang/3.2-jie/3.1.3-jie/README.md)
     * [1.1 ee.Date](di-3-zhang/3.2-jie/3.1.3-jie/3.2.3.1-jie.md)
     * [1.2 ee.ConfusionMatrix](di-3-zhang/3.2-jie/3.1.3-jie/3.2.3.2-jie.md)
 * [第3节 算法结构](di-3-zhang/3.3-jie/README.md)
