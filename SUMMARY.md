@@ -38,11 +38,14 @@
   * [3.1节 循坏for,while,map,evaluate和iterate的异同](di-3-zhang/3.3-jie/3.3.1-jie.md)
   * [3.2节 条件if,switch和ee.Algorithms.If的异同](di-3-zhang/3.3-jie/3.3.2-jie.md)
   * [3.3 异常try catch finally](di-3-zhang/3.3-jie/3.3-jie-1.md)
-  * [3.4 函数funciton](di-3-zhang/3.3-jie/3.4-jie.md)
 
 ## 第四章 GEE函数接口 <a id="di-4-zhang"></a>
 
-* [第1节 ee.Join](di-4-zhang/4.1-jie.md)
+* [第1节 函数定义](di-4-zhang/4.1-jie.md)
+* [第2节 API接口](di-4-zhang/4.2-jie/README.md)
+  * [2.1 连接ee.Join](di-4-zhang/4.2-jie/2.1-jie.md)
+  * [2.2 筛选 ee.Filter](di-4-zhang/4.2-jie/2.2-jie.md)
+  * [2.3 核操作](di-4-zhang/4.2-jie/2.3-jie.md)
 
 ## 第五章 案例 <a id="di-5-zhang"></a>
 
