@@ -35,9 +35,9 @@
     * [1.3.1 ee.Date](di-3-zhang/3.2-jie/3.1.3-jie/1.3.1-jie.md)
     * [1.3.2 ee.ConfusionMatrix](di-3-zhang/3.2-jie/3.1.3-jie/1.3.2-jie.md)
 * [第3节 算法结构](di-3-zhang/3.3-jie/README.md)
-  * [3.1节 for,while,map,evaluate和iterate的异同](di-3-zhang/3.3-jie/3.3.1-jie.md)
-  * [3.2节 if,switch和ee.Algorithms.If的异同](di-3-zhang/3.3-jie/3.3.2-jie.md)
-  * [3.3 异常 try catch finally](di-3-zhang/3.3-jie/3.3-jie-1.md)
+  * [3.1节 循坏for,while,map,evaluate和iterate的异同](di-3-zhang/3.3-jie/3.3.1-jie.md)
+  * [3.2节 条件if,switch和ee.Algorithms.If的异同](di-3-zhang/3.3-jie/3.3.2-jie.md)
+  * [3.3 异常try catch finally](di-3-zhang/3.3-jie/3.3-jie-1.md)
   * [3.4 函数funciton](di-3-zhang/3.3-jie/3.4-jie.md)
 
 ## 第四章 GEE函数接口 <a id="di-4-zhang"></a>
