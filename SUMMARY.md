@@ -18,7 +18,7 @@
 * [第1节 数据类型](di-2-zhang/2.1-jie.md)
 * [第2节 程序结构](di-2-zhang/2.2-jie.md)
 
-## 第三章 GEE数据类型 <a id="di-3-zhang"></a>
+## 第三章 GEE数据结构 <a id="di-3-zhang"></a>
 
 * [第1节 总体概括](di-3-zhang/3.1-jie.md)
 * [第2节 数据类型](di-3-zhang/3.2-jie/README.md)
