@@ -13,7 +13,7 @@
 * [第3节 学习资源](di-1-zhang/1.3-jie.md)
 * [第4节-学习方法](di-1-zhang/1.4-jie.md)
 
-## 第二章 Javascript
+## 第二章 Javascript <a id="di-2-zhang"></a>
 
 ## 第三章 GEE数据结构 <a id="di-3-zhang"></a>
 
@@ -40,9 +40,9 @@
 * [第4节 植被指数的三种计算方式expression,normalizedDifference,手动计算](di-5-zhang/5.4-jie.md)
 * [第5节 统计不同土地利用类型的面积](di-5-zhang/5.5-jie.md)
 
-## 第六章 arcgis
+## 第六章 arcgis <a id="di-6-zhang"></a>
 
-## 第七章 python
+## 第七章 python <a id="di-7-zhang"></a>
 
-## 第八章 matlab
+## 第八章 matlab <a id="di-8-zhang"></a>
 
