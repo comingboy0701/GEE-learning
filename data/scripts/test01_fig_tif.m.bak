@@ -1,5 +1,5 @@
 clear;clc;
-file = 'F:\result2\ccdc2\landclass\land_site06.tif';
+file = '.\source\land_site06.tif';
 [A,R]= geotiffread(file); %读取tif的栅格数据
 year = [1990 2000 2010 2019]; 
 H = nan(length(year),1);

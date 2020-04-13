@@ -37,7 +37,7 @@ def array2raster(rasterfn,newRasterfn,array):
     outband.FlushCache()
 
 
-fileone = 'dem.tif'
+fileone = 'source\dem.tif'
 rasterArray = raster2array(fileone)
 
 # 对dem进行一列的操作,比如映射某种关系,分级.....个人觉得会比 arcgis 栅格计算更方便一些
