@@ -43,9 +43,9 @@
 
 * [第1节 函数定义](di-4-zhang/4.1-jie.md)
 * [第2节 API接口](di-4-zhang/4.2-jie/README.md)
-  * [2.1 连接ee.Join](di-4-zhang/4.2-jie/2.1-jie.md)
-  * [2.2 筛选 ee.Filter](di-4-zhang/4.2-jie/2.2-jie.md)
-  * [2.3 核操作](di-4-zhang/4.2-jie/2.3-jie.md)
+  * [2.1节 连接ee.Join](di-4-zhang/4.2-jie/2.1-jie.md)
+  * [2.2节 筛选 ee.Filter](di-4-zhang/4.2-jie/2.2-jie.md)
+  * [2.3节 核操作](di-4-zhang/4.2-jie/2.3-jie.md)
 
 ## 第五章 案例 <a id="di-5-zhang"></a>
 
