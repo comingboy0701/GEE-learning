@@ -27,7 +27,7 @@
   * [1.3 其它数据](di-3-zhang/3.2-jie/3.1.3-jie/README.md)
     * [1.1 ee.Date](di-3-zhang/3.2-jie/3.1.3-jie/3.2.3.1-jie.md)
     * [1.2 ee.ConfusionMatrix](di-3-zhang/3.2-jie/3.1.3-jie/3.2.3.2-jie.md)
-* [第3节 程序结构](di-3-zhang/3.3-jie/README.md)
+* [第3节 算法结构](di-3-zhang/3.3-jie/README.md)
   * [3.1节 for,while,map,evaluate和iterate的异同](di-3-zhang/3.3-jie/3.3.1-jie.md)
   * [3.2节 if,switch和ee.Algorithms.If的异同](di-3-zhang/3.3-jie/3.3.2-jie.md)
 
