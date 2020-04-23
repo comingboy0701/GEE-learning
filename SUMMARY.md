@@ -52,6 +52,6 @@
 * [第3节 python和matlab对 tif 影像进行读写操作](di-5-zhang/5.3-jie.md)
 * [第4节 植被指数的三种计算方式expression,normalizedDifference,手动计算](di-5-zhang/5.4-jie.md)
 * [第5节 统计不同土地利用类型的面积](di-5-zhang/5.5-jie.md)
-* [第6节 数字化训练样本进行土地利用分类](di-5-zhang/5.6-jie.md)
+* [第6节 数字化训练样本利用SVM进行土地利用分类](di-5-zhang/5.6-jie.md)
 * [第7节 数字化训练样本进行土地利用分类的个人经验](di-5-zhang/5.7-jie.md)
 
