@@ -13,18 +13,16 @@
 * [第3节 学习资源](di-1-zhang/1.3-jie.md)
 * [第4节-学习方法](di-1-zhang/1.4-jie.md)
 
-## 第二章 Javascript <a id="di-2-zhang"></a>
-
 ## 第三章 GEE数据结构 <a id="di-3-zhang"></a>
 
 * [第1节 总体概括](di-3-zhang/3.1-jie.md)
 * [第2节 数据类型](di-3-zhang/3.2-jie/README.md)
-  * [2.1节 数据类型-1](di-3-zhang/3.2-jie/2.1-jie/README.md)
-    * [1 ee.String](di-3-zhang/3.2-jie/2.1-jie/1-jie.md)
-    * [2 ee.Number](di-3-zhang/3.2-jie/2.1-jie/2-jie.md)
-    * [3 ee.Array](di-3-zhang/3.2-jie/2.1-jie/3-jie.md)
-    * [4 ee.List](di-3-zhang/3.2-jie/2.1-jie/4-jie.md)
-    * [5 ee.Dictionary](di-3-zhang/3.2-jie/2.1-jie/5-jie.md)
+  * [2.1节 数据类型-1](di-3-zhang/3.2-jie/2.1-jie-shu-ju-lei-xing-1/README.md)
+    * [1 ee.String](di-3-zhang/3.2-jie/2.1-jie-shu-ju-lei-xing-1/1-jie.md)
+    * [2 ee.Number](di-3-zhang/3.2-jie/2.1-jie-shu-ju-lei-xing-1/2-jie.md)
+    * [3 ee.Array](di-3-zhang/3.2-jie/2.1-jie-shu-ju-lei-xing-1/3-jie.md)
+    * [4 ee.List](di-3-zhang/3.2-jie/2.1-jie-shu-ju-lei-xing-1/4-jie.md)
+    * [5 ee.Dictionary](di-3-zhang/3.2-jie/2.1-jie-shu-ju-lei-xing-1/5-jie.md)
   * [2.2节 数据类型-2](di-3-zhang/3.2-jie/2.2-jie/README.md)
     * [1 Geometry](di-3-zhang/3.2-jie/2.2-jie/1-jie.md)
     * [2 Feature](di-3-zhang/3.2-jie/2.2-jie/2-jie.md)
@@ -56,10 +54,4 @@
 * [第5节 统计不同土地利用类型的面积](di-5-zhang/5.5-jie.md)
 * [第6节 数字化训练样本进行土地利用分类](di-5-zhang/5.6-jie.md)
 * [第7节 数字化训练样本进行土地利用分类的个人经验](di-5-zhang/5.7-jie.md)
-
-## 第六章 arcgis <a id="di-6-zhang"></a>
-
-## 第七章 python <a id="di-7-zhang"></a>
-
-## 第八章 matlab <a id="di-8-zhang"></a>
 
