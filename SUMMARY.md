@@ -59,3 +59,11 @@
 * [第10节 植被指数的计算\(2\)-窄带绿度](di-5-zhang/5.10-jie.md)
 * [第11节 快速检测山东山火面积和明火位置](di-5-zhang/5.11-jie.md)
 
+## 第六章 arcgis学习笔记 <a id="di-5-zhang-1"></a>
+
+* [第1节 批量裁剪和批量重采样](di-5-zhang-1/6.1-jie.md)
+
+## 第七章 matlab学习笔记
+
+* [第1节 matlab画图（1）-双坐标](di-qi-zhang-matlab-xue-xi-bi-ji/7.1-jie.md)
+
