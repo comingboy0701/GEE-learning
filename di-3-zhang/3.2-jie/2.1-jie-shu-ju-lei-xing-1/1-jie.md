@@ -2,7 +2,7 @@
 
 * String是GEE中基本的数据类型，代表"字符串"的意思，在进行开发的时候，肯定是需要对一些字符串进行操作的。下面介绍字符串的常用基本操作。
 
-![](../../../.gitbook/assets/gee-cheng-xu-string.png)
+![](../../../.gitbook/assets/GEE-程序-String.png)
 
 ```python
 // 创建字符串
