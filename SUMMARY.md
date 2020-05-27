@@ -62,6 +62,7 @@
 ## 第六章 arcgis学习笔记 <a id="di-6-zhang"></a>
 
 * [第1节 批量裁剪和批量重采样](di-6-zhang/6.1-jie.md)
+* [第2节 根据DEM提取河网](di-6-zhang/6.2-jie.md)
 
 ## 第七章 matlab学习笔记 <a id="di-7-zhang"></a>
 
