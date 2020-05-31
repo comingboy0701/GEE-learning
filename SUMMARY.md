@@ -66,7 +66,8 @@
 
 ## 第七章 matlab学习笔记 <a id="di-7-zhang"></a>
 
-* [第1节 matlab画图01-gif|avi](di-7-zhang/7.1-jie.md)
-* [第2节 matlab画图02-gif|avi](di-7-zhang/7.2-jie.md)
-* [第3节 matlab画图03-gif|avi](di-7-zhang/7.3-jie.md)
-* [第4节 matlab画图04-gif|avi](di-7-zhang/7.4-jie.md)
+* [第1节 matlab画图01-双纵轴](di-7-zhang/7.1-jie.md)
+* [第2节 matlab画图02-gif\|avi](di-7-zhang/7.2-jie.md)
+* [第3节 matlab画图03-gif\|avi](di-7-zhang/7.3-jie.md)
+* [第4节 matlab画图04-gif\|avi](di-7-zhang/7.4-jie.md)
+
