@@ -6,9 +6,7 @@ description: GEE初学笔记
 
 ## 主要从以下几个方面总结自己入门笔记。
 
-* 围绕Google Earth Engine的安装
-* GEE的入门学习
-* GEE常见案例
+* GEE的学习笔记
 * Javascript基础语法
 * Python基础语法
 * Matlab基础语法
