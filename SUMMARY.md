@@ -71,3 +71,7 @@
 * [第3节 matlab画图03-gif\|avi](di-7-zhang/7.3-jie.md)
 * [第4节 matlab画图04-gif\|avi](di-7-zhang/7.4-jie.md)
 
+## 第八章 Python学习笔记 <a id="di-8-zhang"></a>
+
+* [第1节 Python画图01-双纵坐轴](di-8-zhang/8.1-jie.md)
+
