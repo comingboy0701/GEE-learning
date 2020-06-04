@@ -68,7 +68,7 @@
 
 * [第1节 matlab画图01-双纵轴](di-7-zhang/7.1-jie.md)
 * [第2节 matlab画图02-四纵轴](di-7-zhang/7.2-jie.md)
-* [第3节 matlab画图03-双纵轴](di-7-zhang/7.3-jie.md)
+* [第3节 matlab画图03-多纵轴](di-7-zhang/7.3-jie.md)
 * [第4节 matlab画图04-gif\|avi](di-7-zhang/7.4-jie.md)
 * [第5节 matlab画图05-gif\|avi](di-7-zhang/7.5-jie.md)
 * [第6节 matlab画图06-gif\|avi](di-7-zhang/7.6-jie.md)
