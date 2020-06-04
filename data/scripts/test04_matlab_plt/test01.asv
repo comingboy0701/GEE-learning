@@ -1,0 +1,17 @@
+x = -10:1:10;
+y1 = x.^3;
+y2 = x.^2;
+y3 = sin(x);
+y4 = cos(x);
+
+addaxis(x, y1,'--',linedth)
+addaxis(x, y2,'*-') 
+addaxis(x, y3,'o-') 
+addaxis(x, y4,'>-')
+
+addaxislabel(1,'one'); 
+addaxislabel(2,'two'); 
+addaxislabel(3,'three');
+addaxislabel(4,'four');
+addaxislabel(5,'five');
+legend({'y1=x','y2=x^2','y3=sin(x)','y4=cos(x)'}) 

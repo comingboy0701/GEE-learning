@@ -1,11 +1,3 @@
-# 第1节 matlab画图01-四纵轴
-
-
-## 1 详细代码 
-
-- 版本号：matlab2016a
-
-```python
 function [ax,hlines] = ploty4(x1,y1,x2,y2,x3,y3,x4,y4,ylabels)
 %PLOTY4     Extends plotyy to include a third and fourth y-axis
 %
@@ -88,22 +80,3 @@ for i =1:length(ylabels)
     set(get(ax(i),'ylabel'),'string',ylabels{i})
 end
 end
-```
-
-## 2  example
-
-```python
-x = 0:10;
-y1=x;  y2=x.^2;  y3=x.^3;  y4=x.^4;
-ylabels{1} = 'First y-label';
-ylabels{2} = 'Second y-label';
-ylabels{3} = 'Third y-label';
-ylabels{4} = 'Fourth y-label';
-[ax,hlines] = ploty4(x,y1,x,y2,x,y3,x,y4,ylabels);
-leghandle = legend(hlines, 'y = x','y = x^2','y = x^3','y = x^4','location','northwest');
-```
-
-## 3 画图结果
-
-
-![](../data/images/7.1.2-节多纵轴.png)
