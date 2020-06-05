@@ -76,6 +76,6 @@
 ## 第八章 Python学习笔记 <a id="di-8-zhang"></a>
 
 * [第1节 python画图01-双纵轴](di-8-zhang/8.1-jie.md)
-* [第1节 python画图02-三纵轴](di-8-zhang/8.2-jie.md)
-* [第1节 python画图03-相关性](di-8-zhang/8.3-jie.md)
+* [第2节 python画图02-三纵轴](di-8-zhang/8.2-jie.md)
+* [第3节 python画图03-相关性](di-8-zhang/8.3-jie.md)
 
