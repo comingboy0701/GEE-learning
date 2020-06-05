@@ -79,7 +79,7 @@
 * [第2节 python画图02-三纵轴](di-8-zhang/8.2-jie.md)
 * [第3节 python画图03-相关性](di-8-zhang/8.3-jie.md)
 
-## 第九章 CV学习笔记
+## 第九章 CV学习笔记 <a id="di-9-zhang"></a>
 
-## 第十章 NLP学习笔记
+## 第十章 NLP学习笔记 <a id="di-10-zhang"></a>
 
