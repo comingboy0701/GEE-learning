@@ -1,4 +1,5 @@
 test04_matlab_plot
+.idea
 *.npy
 runs/
 *.bak
