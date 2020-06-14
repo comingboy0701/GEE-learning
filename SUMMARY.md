@@ -58,6 +58,9 @@
 * [第9节 植被指数的计算\(1\)-宽带绿度](di-5-zhang/5.9-jie.md)
 * [第10节 植被指数的计算\(2\)-窄带绿度](di-5-zhang/5.10-jie.md)
 * [第11节 快速检测山东山火面积和明火位置](di-5-zhang/5.11-jie.md)
+* [第12节 对时间序列的影像进行非线性拟合：简单求解](di-5-zhang/5.12-jie.md)
+* [第13节 对时间序列的影像进行非线性拟合：平滑处理](di-5-zhang/5.13-jie.md)
+* [第14节 主成分分析例子(Principal Components Analysis)](di-5-zhang/5.14-jie.md)
 
 ## 第六章 arcgis学习笔记 <a id="di-6-zhang"></a>
 
